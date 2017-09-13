@@ -2,3 +2,4 @@ this is new file
 ok
 3rd line
 4th line
+5th
