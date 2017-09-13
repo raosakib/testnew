@@ -1,3 +1,7 @@
 jadkhjasbdd,bkm k,bdd,fjb,mas ,jzbj
 hssdjhbmnbbcb m
+<<<<<<< HEAD
 change by rao
+=======
+this change is by suleman
+>>>>>>> 896943022cdcaed69ab98fb5d686f973575fa82e
