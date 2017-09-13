@@ -2,3 +2,7 @@ this is new file
 ok
 8th line
 new change unavailable
+<<<<<<< HEAD
+=======
+fdsafasddsfdsa
+>>>>>>> 2b075e8bb0a44b22d5df8fb578862f0c1814ed34
